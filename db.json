@@ -75,30 +75,5 @@
   ],
   "cart": [],
   "favorites": [],
-  "orders": [
-    {
-      "items": [
-        {
-          "id": 3,
-          "parentId": 3,
-          "name": "Мужские Кроссовки Nike Blazer Mid Suede",
-          "image": "/sneakers-react/static/media/img-3.4d7328e6ed157b0b970c.jpg",
-          "price": "8499"
-        }
-      ],
-      "id": 1
-    },
-    {
-      "items": [
-        {
-          "id": 4,
-          "parentId": 4,
-          "name": "Кроссовки Puma X Aka Boku Future Rider",
-          "image": "/sneakers-react/static/media/img-4.7982fa2149ee723c46fd.jpg",
-          "price": "8999"
-        }
-      ],
-      "id": 2
-    }
-  ]
+  "orders": []
 }
